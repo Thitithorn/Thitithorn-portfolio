@@ -1,4 +1,4 @@
-import tongTong from "./assets/images/Tongtong.jpg"
+import tongTong from "./assets/images/tongTong.jpg"
 
 const logotext = "THITITHORN";
 const meta = {
