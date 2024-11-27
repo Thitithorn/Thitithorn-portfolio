@@ -95,9 +95,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "thitithorn.su@gmail.com",
+    YOUR_FONE: "063-8575258",
+    description: "Junior Software Developer with recent completion of the Generation Bootcamp, specializing in HTML, CSS, and JavaScript. Bringing 3 years of experience as an Administrator at the Government Pharmaceutical Organization and 3 years as a Supervisor at Ninja Logistics. Possesses strong communication, time management, and problem-solving skills, along with a Growth mindset, patience, and the ability to work effectively in a team. Highly motivated to leverage software development skills to create high-quality, customer-focused products. Committed to achieving success in alignment with the core values of customer focus, goal attainment, and teamwork.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -106,10 +106,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Thitithorn",
+    facebook: "https://facebook.com/tongtry30",
+    linkedin: "https://www.linkedin.com/in/thitithorn",
 };
 export {
     meta,
