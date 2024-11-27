@@ -1,4 +1,4 @@
-import tongTong from "./assets/images/tongTong.jpg"
+import imgtongTong from "./assets/images/Tongtong.jpg"
 
 const logotext = "THITITHORN";
 const meta = {
@@ -14,7 +14,7 @@ const introdata = {
         third: "based in Pathum Thani, Thailand",
     },
     description: "Junior Software Developer with recent completion of the Generation Bootcamp",
-    your_img_url: tongTong,
+    your_img_url: imgtongTong,
 };
 
 const dataabout = {
