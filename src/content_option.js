@@ -1,3 +1,5 @@
+import tongTong from "./assets/images/tongTong.jpg"
+
 const logotext = "THITITHORN";
 const meta = {
     title: "Thitithorn Suwarak",
@@ -12,7 +14,7 @@ const introdata = {
         third: "based in Pathum Thani, Thailand",
     },
     description: "Junior Software Developer with recent completion of the Generation Bootcamp",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: tongTong,
 };
 
 const dataabout = {
