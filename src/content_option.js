@@ -17,32 +17,32 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Acquired programming skills in HTML, CSS, JavaScript, and SQL. Developed web applications using MERNStack (React, Node.js, MongoDB), implementingAgile methodologies and teamwork practices. For the finalproject, collaborated with a team to create a tea blending e-commerce application using CRUD operationswith MERN Stack. Personally responsible for implementing user authentication (signin/signup) features and developing an AI-powered tea blend generator interface.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Junior Software Developer",
+        where: "Generation Thailand (Bootcamp)",
+        date: "2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "ADMIN",
+        where: "Government Pharmaceutical Organization",
+        date: "2021 - 2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Supervisor",
+        where: "Ninja Logistics",
+        date: "2019 - 2021",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "HTML5",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "CSS",
+        value: 75,
     },
     {
         name: "Javascript",
@@ -53,22 +53,22 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "NodeJs",
+        value: 75,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Web Development",
+        description: "Create modern and responsive websites using the latest web technologies. Skilled in HTML, CSS, and JavaScript to deliver visually appealing and user-friendly web experiences that work seamlessly across all devices.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Frontend Development",
+        description: "Build interactive user interfaces with React, focusing on creating smooth and engaging user experiences. Develop modern web applications with clean, maintainable code and responsive design principles.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Backend Development",
+        description: "Develop robust server-side applications using Node.js, handle database management, and create efficient APIs. Ensure secure and scalable solutions for your web applications with modern backend architecture.",
     },
 ];
 
